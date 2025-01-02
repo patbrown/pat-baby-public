@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>self-evidenced</title>
+  <link href="https://pat.baby/atom.xml" rel="self"/>
+  <link href="https://pat.baby"/>
+  <updated>2025-01-02T14:56:21+00:00</updated>
+  <id>https://pat.baby</id>
+  <author>
+    <name>Pat Brown</name>
+  </author>
+  <entry>
+    <id>https://pat.baby/test.html</id>
+    <link href="https://pat.baby/test.html"/>
+    <title>Test</title>
+    <updated>2025-01-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<p>Write a blog post here!</p>]]></content>
+  </entry>
+</feed>
