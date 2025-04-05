@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>self-evidenced</title>
+  <title>pat.baby</title>
   <link href="https://pat.baby/atom.xml" rel="self"/>
   <link href="https://pat.baby"/>
-  <updated>2025-01-02T15:27:55+00:00</updated>
+  <updated>2025-04-04T20:04:11+00:00</updated>
   <id>https://pat.baby</id>
   <author>
     <name>Pat Brown</name>
@@ -11,8 +11,17 @@
   <entry>
     <id>https://pat.baby/test.html</id>
     <link href="https://pat.baby/test.html"/>
-    <title>Test</title>
+    <title>Testing Myself to See if I still feel</title>
     <updated>2025-01-02T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<p>Write a blog post here!</p>]]></content>
+    <content type="html"><![CDATA[<p>This is what I have to say about the post.  <!-- end-of-preview --><h1 id="yo_write_a_blog_post_here%21">Yo Write a blog post here!</h1> This is subtext there are many excuses for butchering this thing patrick. It's just important to keep working. <center><div class="highlight highlight-slate-100 p-4 highlight-variant-7">YEAH!</div></center><h2 id="sub_heading">Sub heading</h2><h3 id="h3_level">H3 Level</h3><h4 id="h4_baby_baby_come_on">H4 Baby baby come on</h4> <input type="radio" name="radio-1" class="radio" checked="checked" /> <p class="highlight highlight-variant-12 after:bg-gradient-to-tr after:from-amber-500 after:to-sky-500">YEAH BUDDY DO IT!</p> <p class="highlight highlight-variant-5 after:translate-y-2 after:-translate-x-4">     Lorem Ipsum </p> <p class="highlight highlight-variant-12 after:rotate-180">     Lorem Ipsum </p> <input type="radio" name="radio-1" class="radio" /></p><p><div class="overflow-x-auto">   <table class="table table-zebra">     <!-- head -->     <thead>       <tr>         <th></th>         <th>Name</th>         <th>Job</th>         <th>Favorite Color</th>       </tr>     </thead>     <tbody>       <!-- row 1 -->       <tr>         <th>1</th>         <td>Cy Ganderton</td>         <td>Quality Control Specialist</td>         <td>Blue</td>       </tr>       <!-- row 2 -->       <tr>         <th>2</th>         <td>Hart Hagerty</td>         <td>Desktop Support Technician</td>         <td>Purple</td>       </tr>       <!-- row 3 -->       <tr>         <th>3</th>         <td>Brice Swyre</td>         <td>Tax Accountant</td>         <td>Red</td>       </tr> 	        <!-- row 3 -->       <tr>         <th>3</th>         <td>Brice Swyre</td>         <td>Tax Accountant</td>         <td><input type="checkbox" value="synthwave" class="toggle theme-controller" /></td>       </tr>     </tbody>   </table> </div> Block quote below  <!-- end-of-preview --><ol><li>First item</li><li>Second item</li><li>Third item<ol><li>Indented item</li><li>Indented item</li></ol></li><li>Fourth item</li><li>First item</li><li>Second item</li><li>Third item<ul><li>Indented item</li><li>Indented item</li></ul></li><li>Fourth item<pre class="language-clojure"><code class="lang-clojure language-clojure">&#40;&#42; 8 8&#41;
+</code></pre></li></ol>]]></content>
+  </entry>
+  <entry>
+    <id>https://pat.baby/smoke.html</id>
+    <link href="https://pat.baby/smoke.html"/>
+    <title>Smoke</title>
+    <updated>2025-01-01T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<h1 id="sexy_time%21">SEXY time!</h1><p>This is subtext sexy</p><h2 id="love">LOVE</h2><p>Block quote below <blockquote><p>MONEY FEELS DRUGS <pre class="language-clojure"><code class="lang-clojure language-clojure">&#40;&#42; 8 8&#41;
+</code></pre></p></p></blockquote>]]></content>
   </entry>
 </feed>
